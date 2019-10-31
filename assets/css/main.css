@@ -2402,7 +2402,7 @@ ul.icons {
     cursor: default;
     list-style: none;
     padding-left: 0;
-	display: flex;
+    display: flex;
 }
 
 ul.icons li {
